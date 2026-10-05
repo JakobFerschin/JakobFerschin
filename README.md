@@ -1,13 +1,13 @@
 # Jakob Ferschin
 
 Software Engineer building at the intersection of data systems and business logic. 
-Currently studying Business Informatics at WU Wien and joining the Oesterreichische Entwicklungsbank (OeEB) as a Mid-Office IT Intern this summer.
+Currently studying Business Informatics at WU Wien. Previously Mid-Office IT Intern at the Oesterreichische Entwicklungsbank (OeEB).
 
 ---
 
 ### 💻 Engineering
 
-#### [GovTender AI](https://github.com/JakobFerschin/gov-tender-ai)
+#### [GovTender AI](https://github.com/JakobFerschin/GovTender)
 An enterprise-grade B2B platform for public procurement analysis and predictive winner matching in the EU/DACH region.
 * **Features:** Deterministic "Non-LLM First" data pipeline, CPV-based historical matching algorithm, and an executive intelligence dashboard.
 * **Stack:** Next.js, TypeScript, Supabase, Tailwind CSS
